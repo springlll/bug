@@ -1,0 +1,4 @@
+oracle 授权
+
+grant create table to scott;
+grant create view to scott;
